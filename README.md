@@ -1,3 +1,3 @@
 # Some subtitle shenanigans
 
-download subtitles from subscene.com
+download subtitles from subScene.com
